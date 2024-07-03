@@ -1,0 +1,29 @@
+{
+    "name": "com.anu.debugconsole",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "NDesk.Options",
+        "NCalc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.anupackages.ncalc",
+            "expression": "0",
+            "define": "USE_NCALC"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "0",
+            "define": "USE_NCALC"
+        }
+    ],
+    "noEngineReferences": false
+}

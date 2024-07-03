@@ -1,0 +1,19 @@
+{
+    "name": "Erinn.Network",
+    "rootNamespace": "Erinn",
+    "references": [
+        "GUID:da9ea87b0a922d04baac8b6eb89b70b7",
+        "GUID:756335c0388f7114790e504ed368ae1d",
+        "GUID:46762cc86450456fa8bf768920dc64c3",
+        "GUID:e4b63bc353664364ab37a5b816c24a57"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

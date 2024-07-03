@@ -1,0 +1,17 @@
+{
+  "name": "erinn",
+  "displayName": "Erinn",
+  "author": {
+    "name": "Molth Nevin"
+  },
+  "version": "1.0.0",
+  "unity": "2021.3.30f1",
+  "description": "Provides a framework to Unity.",
+  "keywords": [
+    "framework"
+  ],
+  "license": "Apache 2.0",
+  "category": "Framework",
+  "url": "https://github.com/Molth",
+  "copyright": "© 2023 Molth Nevin. All rights reserved."
+}

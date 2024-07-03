@@ -1,0 +1,22 @@
+{
+    "name": "Erinn.Netcode",
+    "rootNamespace": "Erinn",
+    "references": [
+        "GUID:da9ea87b0a922d04baac8b6eb89b70b7",
+        "GUID:756335c0388f7114790e504ed368ae1d",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:3b8ed52f1b5c64994af4c4e0aa4b6c4b",
+        "GUID:f2d49d9fa7e7eb3418e39723a7d3b92f",
+        "GUID:e0cd26848372d4e5c891c569017e11f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

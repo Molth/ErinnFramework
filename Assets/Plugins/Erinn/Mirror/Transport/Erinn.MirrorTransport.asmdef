@@ -1,0 +1,21 @@
+{
+    "name": "Erinn.MirrorTransport",
+    "rootNamespace": "Erinn",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:f2d49d9fa7e7eb3418e39723a7d3b92f",
+        "GUID:756335c0388f7114790e504ed368ae1d",
+        "GUID:83974352d15e41a6927add60bd2fa979",
+        "GUID:da9ea87b0a922d04baac8b6eb89b70b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
